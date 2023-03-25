@@ -22,6 +22,27 @@
         "genre" : "Horror",
         "IMDB_Rating" : 7.2,
         "ticket" : 200
+      },
+      {
+        "id" : 3,
+        "poster" : "https://upload.wikimedia.org/wikipedia/en/8/80/Dilwale_Dulhania_Le_Jayenge_poster.jpg",
+        "title" : "DDLG",
+        "director" : "Francis Lawrence",
+        "year" : 2007,
+        "genre" : "Romance",
+        "IMDB_Rating" : 7.2,
+        "ticket" : 200
+      },
+      {
+        "id" : 4,
+        "poster" : "https://upload.wikimedia.org/wikipedia/en/6/60/Dhamaal_2007.jpg",
+        "title" : "Dhamaal",
+        "director" : "Francis Lawrence",
+        "year" : 2007,
+        "genre" : "Comedy",
+        "IMDB_Rating" : 7.2,
+        "ticket" : 200
       }
+      
     ]
   }
