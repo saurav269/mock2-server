@@ -30,7 +30,7 @@
         "director" : "Francis Lawrence",
         "year" : 2007,
         "genre" : "Romance",
-        "IMDB_Rating" : 7.2,
+        "IMDB_Rating" : 5,
         "ticket" : 200
       },
       {
@@ -40,7 +40,7 @@
         "director" : "Francis Lawrence",
         "year" : 2007,
         "genre" : "Comedy",
-        "IMDB_Rating" : 7.2,
+        "IMDB_Rating" : 9,
         "ticket" : 200
       }
       
